@@ -63,7 +63,22 @@ cout<< "hello world";
 
  <!--image syntex-->
 
- <imr src="./Desktop/cat.jpg">
+ <img src="./images/cat.jpg" width="200" hight="100">
+
+ <!-- emoji-->
+  ❤️
+
+  <!--table-->
+  | Name | Email|
+  |------| ----------|
+  |Zim   | cyberrazib@gmail.com|
+  |Zim   | cyberrazib@gmail.com|
+  |Zim   | cyberrazib@gmail.com|
+  |Zim   | cyberrazib@gmail.com|
+
+  
+
+
 
 
  
